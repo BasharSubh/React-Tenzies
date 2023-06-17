@@ -1,9 +1,7 @@
 # Tenzies
 
 Tenzies is a web-based game where players roll and match dice. It requires quick thinking, dexterity, and friendly competition, making it exciting, versatile, and fun for all ages.
-
-https://648df4d311e1f62d1964faa8--vocal-sunburst-504795.netlify.app/
-
+https://vocal-sunburst-504795.netlify.app/
 ## Description
 
 Tenzies is built using React, HTML, and CSS. The game involves rolling dice and trying to match their values. If all dice are held and have the same value, it's called "Tenzies" and the player wins the game.
